@@ -1,7 +1,7 @@
 {
   "name": "tools",
   "version": "1.0.0",
-  "description": "",
+  "description": "For Basics of Web Development course in Metropolia. #\u0000 \u0000T\u0000y\u0000p\u0000e\u0000-\u0000s\u0000c\u0000r\u0000i\u0000p\u0000t\u0000\r\u0000 \u0000",
   "main": "index.js",
   "scripts": {
     "dev": "tsc-watch",
@@ -17,6 +17,8 @@
     "rollup-plugin-livereload": "^2.0.5",
     "rollup-plugin-typescript2": "^0.36.0",
     "rollup-watch": "^4.3.1",
-    "tsc-watch": "^6.2.0"
-  }
+    "tsc-watch": "^6.2.0",
+    "typescript": "^5.6.2"
+  },
+  "type": "module"
 }

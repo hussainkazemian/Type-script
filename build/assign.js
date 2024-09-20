@@ -1,5 +1,3 @@
-import {greeting} from './greeting.js';
-
+import { greeting } from './greeting';
 const name = "Frank";
-
 console.log(greeting(name));
